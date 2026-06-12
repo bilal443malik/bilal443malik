@@ -20,7 +20,9 @@
 
 ## 🚀 About Me
 
-I'm an AI Engineer specializing in:
+AI Engineer shipping production-grade Agentic AI platforms across multiple domains. I own systems end-to-end from architecture to cloud deployment. Over the last few years, I've delivered production-grade AI solutions for startups and enterprise clients across the US, UK, and Europe.
+
+**Specialties:**
 
 * 🤖 Agentic AI Systems
 * 🔍 Retrieval-Augmented Generation (RAG)
@@ -29,9 +31,7 @@ I'm an AI Engineer specializing in:
 * ⚡ Full-Stack AI Development
 * ☁️ AI Infrastructure & Cloud Deployment
 
-Over the last few years, I've delivered production-grade AI solutions for startups and enterprise clients across the US, UK, and Europe.
-
-My work spans:
+**Work Highlights:**
 
 * Autonomous AI Agents
 * Enterprise Knowledge Bases
@@ -44,65 +44,46 @@ My work spans:
 
 ## 💼 Open To
 
-✅ Senior AI Engineer
-
-✅ Agentic AI Engineer
-
-✅ Founding AI Engineer
-
-✅ AI Solutions Architect
-
-✅ AI Team Lead
-
-✅ Head of AI
-
+✅ Senior AI Engineer  
+✅ Agentic AI Engineer  
+✅ Founding AI Engineer  
+✅ AI Solutions Architect  
+✅ AI Team Lead  
+✅ Head of AI  
 ✅ CTO (AI Startups)
 
 ---
 
 ### 🚀 Building an AI Startup?
 
-If you're a founder building an AI startup and need someone who can transform an idea into a production-ready AI product, I'd love to connect.
-
-From MVPs to scalable AI platforms, I enjoy helping ambitious teams bring AI products to market.
+I help founders transform ideas into production-ready AI products — from MVPs to scalable AI platforms.
 
 ---
 
-## 🧠 AI Expertise
+## 🧠 Tech Stack & AI Expertise
 
 ### Generative AI & LLMs
-
-<p>
 <img src="https://img.shields.io/badge/GPT--4o-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Claude-purple?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Llama--3-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Mistral-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/DeepSeek-darkgreen?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Qwen%20Vision-red?style=for-the-badge" />
-</p>
 
 ### Agentic AI
-
-<p>
 <img src="https://img.shields.io/badge/LangGraph-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LangChain-green?style=for-the-badge" />
 <img src="https://img.shields.io/badge/CrewAI-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AutoGen-purple?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Multi--Agent%20Systems-black?style=for-the-badge" />
-</p>
 
 ### RAG & Search
-
-<p>
 <img src="https://img.shields.io/badge/Pinecone-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/FAISS-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Vector%20DBs-green?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Semantic%20Search-orange?style=for-the-badge" />
-</p>
 
 ### Full-Stack AI
-
-<p>
 <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge" />
@@ -110,40 +91,31 @@ From MVPs to scalable AI platforms, I enjoy helping ambitious teams bring AI pro
 <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge" />
-</p>
 
 ### Cloud & Infrastructure
-
-<p>
 <img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/GCP-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Redis-red?style=for-the-badge" />
 <img src="https://img.shields.io/badge/CI/CD-darkgreen?style=for-the-badge" />
-</p>
 
 ---
 
 ## 🔥 Featured Projects
 
 ### 🤖 AI Cold Email Generation Platform
-
 Apollo Lead Retrieval → Website Crawling → AI Pain Point Extraction → Hyper-Personalized Outreach
 
 ### 🧠 Ripple AI
-
 Enterprise AI platform supporting content analysis, classification, translation, harmful content detection, and LLM-powered automation.
 
 ### 🎭 ELSA Roleplay
-
 LangGraph-powered celebrity persona generation system built with GPT-4o and agentic workflows.
 
 ### 📚 Enterprise Knowledge Base Platform
-
 Centralized AI knowledge system powering hundreds of chatbot deployments using hybrid retrieval.
 
 ### 🎙️ Real-Time Voice AI Agent
-
 Voice + Chat AI platform powered by GPT-4o, LiveKit, ElevenLabs, and FastAPI.
 
 ---
@@ -180,16 +152,11 @@ Voice + Chat AI platform powered by GPT-4o, LiveKit, ElevenLabs, and FastAPI.
 
 ## 📬 Let's Connect
 
-📧 **[Bilal443malik@gmail.com](mailto:Bilal443malik@gmail.com)**
-
-🌐 **https://bilal-hassan-ai-engineer.vercel.app**
-
-💼 **https://www.linkedin.com/in/bilal-data-science**
-
+📧 **[Bilal443malik@gmail.com](mailto:Bilal443malik@gmail.com)**  
+🌐 **https://bilal-hassan-ai-engineer.vercel.app**  
+💼 **https://www.linkedin.com/in/bilal-data-science**  
 🐙 **https://github.com/bilal443malik**
 
 ---
 
 ### 💡 Building the future with AI Agents, LLMs, and intelligent automation.
-
-</div>
