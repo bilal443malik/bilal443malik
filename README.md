@@ -121,22 +121,6 @@ Voice + Chat AI platform powered by GPT-4o, LiveKit, ElevenLabs, and FastAPI.
 - ⚡ Supported High-Concurrency AI Applications
 - 🏗️ Specialized in End-to-End AI Product Development
 
----
-
-<h2 align="center">📊 GɪᴛHᴜʙ Aɴᴀʟʏᴛɪᴄs</h2>
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bilal443malik&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal443malik&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bilal443malik&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bilal443malik&theme=tokyo-night" />
-</p>
 
 ---
 
